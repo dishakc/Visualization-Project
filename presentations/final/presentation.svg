@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2012.2737mm"
+   height="572.04333mm"
+   viewBox="0 0 2012.2738 572.04333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="presentation.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="788.91077"
+       y="-84.517822"
+       width="129.82259"
+       height="25.126951"
+       id="rect2967" />
+    <filter
+       height="2.2318144"
+       width="1.2574046"
+       y="-0.61590719"
+       x="-0.12870231"
+       inkscape:menu-tooltip="Neon light effect"
+       inkscape:menu="Bevels"
+       id="filter3030"
+       inkscape:label="Neon"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend3000"
+         in2="SourceGraphic"
+         result="blend"
+         mode="normal" />
+      <feGaussianBlur
+         id="feGaussianBlur3002"
+         result="blur1"
+         stdDeviation="3.0766896"
+         in="blend" />
+      <feColorMatrix
+         id="feColorMatrix3004"
+         result="color1"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0" />
+      <feComponentTransfer
+         id="feComponentTransfer3012"
+         result="component1">
+        <feFuncR
+           id="feFuncR3006"
+           tableValues="0 0.3 0.3 0.3 0.3 0.6 0.6 0.6 0.6 1 1"
+           type="discrete" />
+        <feFuncG
+           id="feFuncG3008"
+           tableValues="0 0.3 0.3 0.3 0.3 0.6 0.6 0.6 0.6 1 1"
+           type="discrete" />
+        <feFuncB
+           id="feFuncB3010"
+           tableValues="0 0.3 0.3 0.3 0.3 0.6 0.6 0.6 0.6 1 1"
+           type="discrete" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         id="feGaussianBlur3014"
+         result="blur2"
+         stdDeviation="3"
+         in="component1" />
+      <feColorMatrix
+         id="feColorMatrix3016"
+         result="color2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0" />
+      <feComponentTransfer
+         id="feComponentTransfer3024"
+         result="component2"
+         in="color2">
+        <feFuncR
+           id="feFuncR3018"
+           tableValues="0 1 1 1 0 0 0 1 1 1 0 0 0 1 1 1 0 0 0 1"
+           type="table" />
+        <feFuncG
+           id="feFuncG3020"
+           tableValues="0 1 1 1 0 0 0 1 1 1 0 0 0 1 1 1 0 0 0 1"
+           type="table" />
+        <feFuncB
+           id="feFuncB3022"
+           tableValues="0 1 1 1 0 0 0 1 1 1 0 0 0 1 1 1 0 0 0 1"
+           type="table" />
+      </feComponentTransfer>
+      <feComposite
+         id="feComposite3026"
+         result="composite1"
+         k2="1"
+         operator="arithmetic"
+         k3="1"
+         in2="blur2"
+         in="component2"
+         k1="0"
+         k4="0" />
+      <feComposite
+         id="feComposite3028"
+         result="fbSourceGraphic"
+         operator="in"
+         in2="SourceGraphic"
+         in="composite1" />
+      <feColorMatrix
+         id="feColorMatrix3032"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feBlend
+         in="fbSourceGraphic"
+         result="blend"
+         mode="normal"
+         id="feBlend3034"
+         in2="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         result="blur1"
+         stdDeviation="3"
+         in="blend"
+         id="feGaussianBlur3036" />
+      <feColorMatrix
+         result="color1"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0"
+         id="feColorMatrix3038" />
+      <feComponentTransfer
+         result="component1"
+         id="feComponentTransfer3040">
+        <feFuncR
+           tableValues="0 0.3 0.3 0.3 0.3 0.6 0.6 0.6 0.6 1 1"
+           type="discrete"
+           id="feFuncR3042" />
+        <feFuncG
+           tableValues="0 0.3 0.3 0.3 0.3 0.6 0.6 0.6 0.6 1 1"
+           type="discrete"
+           id="feFuncG3044" />
+        <feFuncB
+           tableValues="0 0.3 0.3 0.3 0.3 0.6 0.6 0.6 0.6 1 1"
+           type="discrete"
+           id="feFuncB3046" />
+      </feComponentTransfer>
+      <feGaussianBlur
+         result="blur2"
+         stdDeviation="3"
+         in="component1"
+         id="feGaussianBlur3048" />
+      <feColorMatrix
+         result="color2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 50 0"
+         id="feColorMatrix3050" />
+      <feComponentTransfer
+         result="component2"
+         in="color2"
+         id="feComponentTransfer3052">
+        <feFuncR
+           tableValues="0 1 1 1 0 0 0 1 1 1 0 0 0 1 1 1 0 0 0 1"
+           type="table"
+           id="feFuncR3054" />
+        <feFuncG
+           tableValues="0 1 1 1 0 0 0 1 1 1 0 0 0 1 1 1 0 0 0 1"
+           type="table"
+           id="feFuncG3056" />
+        <feFuncB
+           tableValues="0 1 1 1 0 0 0 1 1 1 0 0 0 1 1 1 0 0 0 1"
+           type="table"
+           id="feFuncB3058" />
+      </feComponentTransfer>
+      <feComposite
+         result="composite1"
+         k2="1"
+         operator="arithmetic"
+         k3="1"
+         in="component2"
+         id="feComposite3060"
+         in2="blur2"
+         k1="0"
+         k4="0" />
+      <feComposite
+         result="fbSourceGraphic"
+         operator="in"
+         in="composite1"
+         id="feComposite3062"
+         in2="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix3064"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         result="result1"
+         stdDeviation="1"
+         id="feGaussianBlur3066" />
+      <feComposite
+         operator="in"
+         result="result4"
+         in="result1"
+         id="feComposite3068"
+         in2="result1" />
+      <feGaussianBlur
+         in="result4"
+         result="result6"
+         stdDeviation="7"
+         id="feGaussianBlur3070" />
+      <feComposite
+         result="result8"
+         in="result6"
+         operator="over"
+         id="feComposite3072"
+         in2="result4" />
+      <feComposite
+         in="result6"
+         result="fbSourceGraphic"
+         operator="in"
+         id="feComposite3074"
+         in2="result8" />
+      <feSpecularLighting
+         in="fbSourceGraphic"
+         result="result1"
+         lighting-color="#ffffff"
+         surfaceScale="2.5"
+         specularConstant="2"
+         specularExponent="45"
+         id="feSpecularLighting3076">
+        <fePointLight
+           x="-5000"
+           y="-10000"
+           z="20000"
+           id="fePointLight3078" />
+      </feSpecularLighting>
+      <feComposite
+         in="result1"
+         result="result2"
+         operator="in"
+         id="feComposite3080"
+         in2="fbSourceGraphic" />
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1.2"
+         k3="1.5"
+         id="feComposite3082"
+         in2="result2"
+         k1="0"
+         k4="0" />
+      <feComposite
+         result="result9"
+         operator="over"
+         id="feComposite3084"
+         in2="result4" />
+      <feBlend
+         mode="screen"
+         id="feBlend3086"
+         in2="result9" />
+    </filter>
+    <filter
+       inkscape:menu-tooltip="Light areas turn to black"
+       inkscape:menu="Color"
+       inkscape:label="Black Light"
+       style="color-interpolation-filters:sRGB"
+       id="filter1069"
+       x="-0.033353347"
+       width="1.0667067"
+       y="-0.1686803"
+       height="1.3373606">
+      <feGaussianBlur
+         in="SourceGraphic"
+         result="result6"
+         stdDeviation="1.0837862"
+         id="feGaussianBlur1049" />
+      <feComposite
+         in2="SourceGraphic"
+         in="result6"
+         operator="xor"
+         id="feComposite1051" />
+      <feGaussianBlur
+         result="result2"
+         stdDeviation="10"
+         id="feGaussianBlur1053" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="atop"
+         result="result91"
+         id="feComposite1055" />
+      <feComposite
+         result="result4"
+         in="result2"
+         operator="xor"
+         in2="result91"
+         id="feComposite1057" />
+      <feGaussianBlur
+         in="result4"
+         result="result3"
+         stdDeviation="5"
+         id="feGaussianBlur1059" />
+      <feSpecularLighting
+         lighting-color="#ffffff"
+         in="result3"
+         result="result5"
+         specularExponent="35"
+         specularConstant="3"
+         surfaceScale="12"
+         id="feSpecularLighting1063">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight1061" />
+      </feSpecularLighting>
+      <feComposite
+         in2="result5"
+         in="SourceGraphic"
+         k3="0.7"
+         k2="0.8"
+         operator="arithmetic"
+         result="result7"
+         id="feComposite1065"
+         k1="0"
+         k4="0" />
+      <feComposite
+         in="result7"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite1067"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1143" />
+      <feColorMatrix
+         id="feColorMatrix1145"
+         type="luminanceToAlpha"
+         result="result2"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite1147"
+         operator="arithmetic"
+         in="result2"
+         k3="2"
+         result="result4"
+         k1="0"
+         k2="0"
+         k4="0" />
+      <feBlend
+         in2="result2"
+         id="feBlend1149"
+         in="result4"
+         mode="multiply"
+         result="result3" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite1151"
+         operator="in"
+         in="result3" />
+    </filter>
+    <rect
+       id="rect2988"
+       height="25.126951"
+       width="129.82259"
+       y="-84.517822"
+       x="788.91077" />
+    <rect
+       id="rect2996"
+       height="25.126951"
+       width="129.82259"
+       y="-84.517822"
+       x="788.91077" />
+    <rect
+       x="788.91077"
+       y="-84.517822"
+       width="129.82259"
+       height="25.126951"
+       id="rect3015" />
+    <rect
+       x="788.91077"
+       y="-84.517822"
+       width="209.58348"
+       height="32.377945"
+       id="rect3021" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:window-maximized="0"
+     inkscape:window-y="28"
+     inkscape:window-x="0"
+     inkscape:window-height="872"
+     inkscape:window-width="1440"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="1037.1652"
+     inkscape:cx="5151.0513"
+     inkscape:zoom="0.33174016"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(189.64445,299.49286)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,62.538184,-605.93209)"
+       xml:space="preserve"
+       id="flowRoot4469"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="overview.png"
+       inkscape:export-xdpi="91.99614"
+       inkscape:export-ydpi="91.99614"><flowRegion
+         id="flowRegion4471"><rect
+           id="rect4473"
+           width="88.320839"
+           height="98.511703"
+           x="-618.24585"
+           y="1225.6069" /></flowRegion><flowPara
+         id="flowPara4475"
+         style="font-size:56px;line-height:1.25"> </flowPara></flowRoot>
+    <text
+       id="text1887"
+       y="-72.954536"
+       x="-256.5014"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-72.954536"
+         x="-256.5014"
+         sodipodi:role="line"
+         id="tspan1883"
+         style="font-size:4.17468px;line-height:1.1;stroke-width:0.264583px" /><tspan
+         y="-70.934128"
+         x="-256.5014"
+         sodipodi:role="line"
+         id="tspan1885"
+         style="font-size:4.17468px;line-height:1.1;stroke-width:0.264583px" /></text>
+    <text
+       id="text2976"
+       y="-68.837585"
+       x="503.96951"
+       style="font-size:8.46667px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="-68.837585"
+         x="503.96951"
+         id="tspan2974"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';stroke-width:0.264583"
+       x="174.17262"
+       y="-129.13251"
+       id="text1021"><tspan
+         sodipodi:role="line"
+         id="tspan1019"
+         x="174.17262"
+         y="-129.13251"
+         style="stroke-width:0.264583" /></text>
+    <image
+       sodipodi:absref="/Users/dishakc/Documents/Data_Visualization/project_DV/project-the-vizards/presentations/final/images/4.jpg"
+       xlink:href="images/4.jpg"
+       id="image1115"
+       preserveAspectRatio="none"
+       height="185.97739"
+       width="276.41275"
+       x="368.63461"
+       y="-298.13818" />
+    <image
+       sodipodi:absref="/Users/dishakc/Documents/Data_Visualization/project_DV/project-the-vizards/presentations/final/images/dataset.png"
+       xlink:href="images/dataset.png"
+       id="image1129"
+       preserveAspectRatio="none"
+       height="185"
+       width="259"
+       x="661.98132"
+       y="-297.1608" />
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';stroke-width:0.264583"
+       x="-81.338257"
+       y="-185.53786"
+       id="text1137"><tspan
+         sodipodi:role="line"
+         id="tspan1135"
+         x="-81.338257"
+         y="-185.53786"
+         style="stroke-width:0.264583" /></text>
+    <image
+       sodipodi:absref="/Users/dishakc/Documents/Data_Visualization/project_DV/project-the-vizards/presentations/final/images/tools.jpg"
+       xlink:href="images/tools.jpg"
+       id="image1163"
+       preserveAspectRatio="none"
+       height="185"
+       width="259"
+       x="400.11038"
+       y="-60.221546" />
+    <image
+       sodipodi:absref="/Users/dishakc/Documents/Data_Visualization/project_DV/project-the-vizards/presentations/final/images/leighann-blackwood.jpg"
+       xlink:href="images/leighann-blackwood.jpg"
+       id="image1205"
+       preserveAspectRatio="none"
+       height="185"
+       width="277.5"
+       x="1437.2531"
+       y="-59.244183" />
+    <image
+       sodipodi:absref="/Users/dishakc/Documents/Data_Visualization/project_DV/project-the-vizards/presentations/final/images/image_6.jpg"
+       xlink:href="images/image_6.jpg"
+       id="image1233"
+       preserveAspectRatio="none"
+       height="185"
+       width="259"
+       x="1265.0142"
+       y="-297.16083" />
+    <image
+       sodipodi:absref="/Users/dishakc/Documents/Data_Visualization/project_DV/project-the-vizards/presentations/final/images/neonbrand.jpg"
+       xlink:href="images/neonbrand.jpg"
+       id="image1247"
+       preserveAspectRatio="none"
+       height="185"
+       width="281.29193"
+       x="955.71436"
+       y="-297.16083" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';stroke-width:0.264583"
+       x="1274.303"
+       y="-110.20197"
+       id="text1257"><tspan
+         sodipodi:role="line"
+         id="tspan1255"
+         x="1274.303"
+         y="-110.20197"
+         style="font-size:4.23333px;stroke-width:0.264583">Source:https://spiritwest.com/blog-timeline/market-growth/151-the-secret-sauce-as-a-growth-strategy</tspan><tspan
+         id="tspan840"
+         sodipodi:role="line"
+         x="1274.303"
+         y="-104.91031"
+         style="font-size:4.23333px;stroke-width:0.264583" /></text>
+    <text
+       id="text1261"
+       y="120.97581"
+       x="407.03995"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';fill:#ffffff;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         y="120.97581"
+         x="407.03995"
+         id="tspan1259"
+         sodipodi:role="line">http://www.quickmeme.com/meme/3q2gwr</tspan></text>
+    <text
+       onclick=""
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';stroke-width:0.264583"
+       x="377.90475"
+       y="-116.78162"
+       id="text1283"><tspan
+         id="tspan209"
+         sodipodi:role="line"
+         x="377.90475"
+         y="-116.78162"
+         style="font-size:4.23333px;stroke-width:0.264583">https://mittera.com/teamwork-makes-the-dream-work/</tspan></text>
+    <image
+       sodipodi:absref="/Users/dishakc/Documents/Data_Visualization/project_DV/project-the-vizards/presentations/final/images/pete-pedroza.jpg"
+       xlink:href="images/pete-pedroza.jpg"
+       y="-56.127686"
+       x="-169.56194"
+       width="246.7859"
+       height="185"
+       preserveAspectRatio="none"
+       id="image1051" />
+    <text
+       id="text838"
+       y="-115.94703"
+       x="969.97235"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';fill:#ffffff;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         y="-115.94703"
+         x="969.97235"
+         id="tspan832"
+         sodipodi:role="line">Thanks to NeONBRAND for uploading on unsplash</tspan><tspan
+         id="tspan834"
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         y="-110.65536"
+         x="969.97235"
+         sodipodi:role="line" /><tspan
+         id="tspan836"
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         y="-105.36371"
+         x="969.97235"
+         sodipodi:role="line" /></text>
+    <image
+       sodipodi:absref="/Users/dishakc/Documents/Data_Visualization/project_DV/project-the-vizards/presentations/final/images/3.png"
+       xlink:href="images/3.png"
+       y="-298.13818"
+       x="87.902214"
+       width="259"
+       height="189.03691"
+       preserveAspectRatio="none"
+       id="image554" />
+    <text
+       id="text558"
+       y="-112.54826"
+       x="94.271568"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';fill:#ffffff;stroke-width:0.264583"
+       xml:space="preserve"
+       onclick=""><tspan
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         y="-112.54826"
+         x="94.271568"
+         sodipodi:role="line"
+         id="tspan556">https://www.freepik.com/free-vector/crime-scene-night-murder-place-dark-room_6823044.htm#page=1&amp;query=crime&amp;position=21</tspan></text>
+    <image
+       sodipodi:absref="/Users/dishakc/Documents/Data_Visualization/project_DV/project-the-vizards/presentations/final/images/1.jpg"
+       xlink:href="images/1.jpg"
+       id="image752"
+       preserveAspectRatio="none"
+       height="199.6338"
+       width="259"
+       x="-187.29103"
+       y="-298.13818" />
+    <text
+       onclick=""
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';fill:#ffffff;stroke-width:0.264583"
+       x="-160.25763"
+       y="-106.72743"
+       id="text924"><tspan
+         id="tspan922"
+         sodipodi:role="line"
+         x="-160.25763"
+         y="-106.72743"
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">https://www.freepik.com/free-vector/crime-scene-night-murder-place-dark-room_6823044.htm#page=1&amp;query=crime&amp;position=21</tspan></text>
+    <text
+       id="text1283-3"
+       y="-114.44833"
+       x="675.64111"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';fill:#ffffff;stroke-width:0.264583"
+       xml:space="preserve"
+       onclick=""><tspan
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         y="-114.44833"
+         x="675.64111"
+         sodipodi:role="line"
+         id="tspan209-4">https://www.bmc.com/blogs/dbms-database-management-systems/ </tspan></text>
+    <image
+       sodipodi:absref="/Users/dishakc/Documents/Data_Visualization/project_DV/project-the-vizards/presentations/final/images/luke-chesser.jpg"
+       xlink:href="images/luke-chesser.jpg"
+       id="image1163-6"
+       preserveAspectRatio="none"
+       height="185"
+       width="277.47116"
+       x="680.84332"
+       y="-59.244152" />
+    <image
+       sodipodi:absref="/Users/dishakc/Documents/Data_Visualization/project_DV/project-the-vizards/presentations/final/images/clay-banks.jpg"
+       xlink:href="images/clay-banks.jpg"
+       id="image1163-6-3"
+       preserveAspectRatio="none"
+       height="204.26071"
+       width="299.41739"
+       x="1027.0413"
+       y="-59.244152" />
+    <image
+       sodipodi:absref="/Users/dishakc/Documents/Data_Visualization/project_DV/project-the-vizards/presentations/final/images/logo.png"
+       xlink:href="images/logo.png"
+       y="-5.8391147"
+       x="617.64026"
+       width="21.334774"
+       height="23.924412"
+       preserveAspectRatio="none"
+       id="image2990" />
+    <image
+       sodipodi:absref="/Users/dishakc/Documents/Data_Visualization/project_DV/project-the-vizards/presentations/final/images/ameer-basheer.jpg"
+       xlink:href="images/ameer-basheer.jpg"
+       y="-65.377686"
+       x="97.332031"
+       width="259"
+       height="194.25"
+       preserveAspectRatio="none"
+       id="image3023" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';fill:#ffffff;stroke-width:0.264583"
+       x="1036.4377"
+       y="138.56784"
+       id="text838-7"><tspan
+         sodipodi:role="line"
+         id="tspan832-6"
+         x="1036.4377"
+         y="138.56784"
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">Thanks to clay-banks for uploading on unsplash</tspan><tspan
+         sodipodi:role="line"
+         x="1036.4377"
+         y="143.8595"
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         id="tspan834-7" /><tspan
+         sodipodi:role="line"
+         x="1036.4377"
+         y="149.15117"
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         id="tspan836-8" /></text>
+    <text
+       id="text838-7-9"
+       y="113.9656"
+       x="1471.8752"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';fill:#ffffff;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         y="113.9656"
+         x="1471.8752"
+         id="tspan832-6-8"
+         sodipodi:role="line">Thanks to leighann-blackwood for uploading on unsplash</tspan><tspan
+         id="tspan834-7-6"
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         y="119.25726"
+         x="1471.8752"
+         sodipodi:role="line" /><tspan
+         id="tspan836-8-7"
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         y="124.54892"
+         x="1471.8752"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';fill:#ffffff;stroke-width:0.264583"
+       x="692.9975"
+       y="122.04306"
+       id="text838-7-9-4"><tspan
+         sodipodi:role="line"
+         id="tspan832-6-8-2"
+         x="692.9975"
+         y="122.04306"
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">Thanks to luke-chesser for uploading on unsplash</tspan><tspan
+         sodipodi:role="line"
+         x="692.9975"
+         y="127.33472"
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         id="tspan834-7-6-6" /><tspan
+         sodipodi:role="line"
+         x="692.9975"
+         y="132.62639"
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         id="tspan836-8-7-1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';fill:#ffffff;stroke-width:0.264583"
+       x="97.742203"
+       y="127.0055"
+       id="text838-7-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan832-6-8-6"
+         x="97.742203"
+         y="127.0055"
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583">Thanks to leighann-blackwood for uploading on unsplash</tspan><tspan
+         sodipodi:role="line"
+         x="97.742203"
+         y="132.29716"
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         id="tspan834-7-6-0" /><tspan
+         sodipodi:role="line"
+         x="97.742203"
+         y="137.58882"
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         id="tspan836-8-7-2" /></text>
+    <text
+       id="text838-7-9-7-1"
+       y="126.18584"
+       x="-167.72833"
+       style="font-size:4.23333px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';fill:#ffffff;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         y="126.18584"
+         x="-167.72833"
+         id="tspan832-6-8-6-3"
+         sodipodi:role="line">Thanks to pete-pedroza for uploading on unsplash</tspan><tspan
+         id="tspan834-7-6-0-5"
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         y="131.47749"
+         x="-167.72833"
+         sodipodi:role="line" /><tspan
+         id="tspan836-8-7-2-8"
+         style="font-size:4.23333px;fill:#ffffff;stroke-width:0.264583"
+         y="136.76917"
+         x="-167.72833"
+         sodipodi:role="line" /></text>
+  </g>
+</svg>

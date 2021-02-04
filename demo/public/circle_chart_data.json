@@ -1,0 +1,1306 @@
+{
+    "name": "circle_chart_data",
+    "children": [
+        {
+            "name": "77th Street",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 70.0
+                },
+                {
+                    "name": "Asian Indian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Black",
+                    "value": 7474.2
+                },
+                {
+                    "name": "Cambodian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Chinese",
+                    "value": 110.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 150.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 40.0
+                },
+                {
+                    "name": "Hawaiian",
+                    "value": 70.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 50.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 110.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 4991.4
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 3670.0
+                },
+                {
+                    "name": "Pacific",
+                    "value": 40.0
+                },
+                {
+                    "name": "Samoan",
+                    "value": 40.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 50.0
+                },
+                {
+                    "name": "White",
+                    "value": 452.8
+                }
+            ]
+        },
+        {
+            "name": "Central",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 220.0
+                },
+                {
+                    "name": "Asian Indian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Black",
+                    "value": 1854.8
+                },
+                {
+                    "name": "Cambodian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Chinese",
+                    "value": 530.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 310.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Hawaiian",
+                    "value": 40.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 210.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 1100.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 2673.6
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 256.2
+                },
+                {
+                    "name": "Pacific",
+                    "value": 40.0
+                },
+                {
+                    "name": "Samoan",
+                    "value": 20.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 40.0
+                },
+                {
+                    "name": "White",
+                    "value": 1870.0
+                }
+            ]
+        },
+        {
+            "name": "Devonshire",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 410.0
+                },
+                {
+                    "name": "Asian Indian",
+                    "value": 50.0
+                },
+                {
+                    "name": "Black",
+                    "value": 614.0
+                },
+                {
+                    "name": "Cambodian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Chinese",
+                    "value": 100.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 1570.0
+                },
+                {
+                    "name": "Hawaiian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 100.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 440.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 2617.0
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 360.0
+                },
+                {
+                    "name": "Pacific",
+                    "value": 120.0
+                },
+                {
+                    "name": "Samoan",
+                    "value": 10.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 110.0
+                },
+                {
+                    "name": "White",
+                    "value": 3888.6
+                }
+            ]
+        },
+        {
+            "name": "Foothill",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 170.0
+                },
+                {
+                    "name": "Asian Indian",
+                    "value": 20.0
+                },
+                {
+                    "name": "Black",
+                    "value": 432.0
+                },
+                {
+                    "name": "Cambodian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Chinese",
+                    "value": 20.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 240.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 40.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 160.0
+                },
+                {
+                    "name": "Laotian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 4121.8
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 5600.0
+                },
+                {
+                    "name": "Pacific",
+                    "value": 120.0
+                },
+                {
+                    "name": "Samoan",
+                    "value": 10.0
+                },
+                {
+                    "name": "White",
+                    "value": 1712.8
+                }
+            ]
+        },
+        {
+            "name": "Harbor",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 130.0
+                },
+                {
+                    "name": "Asian Indian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Black",
+                    "value": 859.4
+                },
+                {
+                    "name": "Chinese",
+                    "value": 70.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 290.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Hawaiian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 70.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 110.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 3831.0
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 5500.0
+                },
+                {
+                    "name": "Pacific",
+                    "value": 80.0
+                },
+                {
+                    "name": "Samoan",
+                    "value": 30.0
+                },
+                {
+                    "name": "White",
+                    "value": 2324.8
+                }
+            ]
+        },
+        {
+            "name": "Hollenbeck",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 310.0
+                },
+                {
+                    "name": "Asian Indian",
+                    "value": 30.0
+                },
+                {
+                    "name": "Black",
+                    "value": 9050.0
+                },
+                {
+                    "name": "Cambodian",
+                    "value": 30.0
+                },
+                {
+                    "name": "Chinese",
+                    "value": 510.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 230.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 30.0
+                },
+                {
+                    "name": "Hawaiian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 90.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 290.0
+                },
+                {
+                    "name": "Laotian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 4650.6
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 5070.0
+                },
+                {
+                    "name": "Pacific",
+                    "value": 20.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 40.0
+                },
+                {
+                    "name": "White",
+                    "value": 807.6
+                }
+            ]
+        },
+        {
+            "name": "Hollywood",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 70.0
+                },
+                {
+                    "name": "Asian Indian",
+                    "value": 30.0
+                },
+                {
+                    "name": "Black",
+                    "value": 926.8
+                },
+                {
+                    "name": "Chinese",
+                    "value": 100.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 350.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Hawaiian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 60.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 390.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 1980.6
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 197.4
+                },
+                {
+                    "name": "Pacific",
+                    "value": 50.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 20.0
+                },
+                {
+                    "name": "White",
+                    "value": 3925.0
+                }
+            ]
+        },
+        {
+            "name": "Mission",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 80.0
+                },
+                {
+                    "name": "Black",
+                    "value": 588.8
+                },
+                {
+                    "name": "Chinese",
+                    "value": 40.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 1460.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Hawaiian",
+                    "value": 50.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 20.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 40.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 6112.4
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 5820.0
+                },
+                {
+                    "name": "Pacific",
+                    "value": 160.0
+                },
+                {
+                    "name": "Samoan",
+                    "value": 10.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 10.0
+                },
+                {
+                    "name": "White",
+                    "value": 1418.6
+                }
+            ]
+        },
+        {
+            "name": "N Hollywood",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 170.0
+                },
+                {
+                    "name": "Asian Indian",
+                    "value": 40.0
+                },
+                {
+                    "name": "Black",
+                    "value": 857.0
+                },
+                {
+                    "name": "Chinese",
+                    "value": 90.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 700.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Hawaiian",
+                    "value": 20.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 30.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 180.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 3167.6
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 9650.0
+                },
+                {
+                    "name": "Pacific",
+                    "value": 80.0
+                },
+                {
+                    "name": "Samoan",
+                    "value": 10.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 10.0
+                },
+                {
+                    "name": "White",
+                    "value": 4966.6
+                }
+            ]
+        },
+        {
+            "name": "Newton",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 90.0
+                },
+                {
+                    "name": "Black",
+                    "value": 1878.4
+                },
+                {
+                    "name": "Cambodian",
+                    "value": 20.0
+                },
+                {
+                    "name": "Chinese",
+                    "value": 70.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 50.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Hawaiian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 10.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 680.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 5516.4
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 4470.0
+                },
+                {
+                    "name": "Pacific",
+                    "value": 10.0
+                },
+                {
+                    "name": "White",
+                    "value": 461.4
+                }
+            ]
+        },
+        {
+            "name": "Northeast",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 50.0
+                },
+                {
+                    "name": "Asian Indian",
+                    "value": 20.0
+                },
+                {
+                    "name": "Black",
+                    "value": 389.8
+                },
+                {
+                    "name": "Cambodian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Chinese",
+                    "value": 200.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 3280.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 80.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 490.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 4024.4
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 319.8
+                },
+                {
+                    "name": "Pacific",
+                    "value": 160.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 30.0
+                },
+                {
+                    "name": "White",
+                    "value": 3310.2
+                }
+            ]
+        },
+        {
+            "name": "Olympic",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 140.0
+                },
+                {
+                    "name": "Black",
+                    "value": 884.4
+                },
+                {
+                    "name": "Chinese",
+                    "value": 420.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 1000.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 20.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 200.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 752.6
+                },
+                {
+                    "name": "Laotian",
+                    "value": 20.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 3772.8
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 601.6
+                },
+                {
+                    "name": "Pacific",
+                    "value": 130.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 60.0
+                },
+                {
+                    "name": "White",
+                    "value": 1057.0
+                }
+            ]
+        },
+        {
+            "name": "Pacific",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 140.0
+                },
+                {
+                    "name": "Asian Indian",
+                    "value": 20.0
+                },
+                {
+                    "name": "Black",
+                    "value": 1235.0
+                },
+                {
+                    "name": "Chinese",
+                    "value": 80.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 340.0
+                },
+                {
+                    "name": "Hawaiian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 130.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 290.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 1632.0
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 327.0
+                },
+                {
+                    "name": "Pacific",
+                    "value": 50.0
+                },
+                {
+                    "name": "Samoan",
+                    "value": 10.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 10.0
+                },
+                {
+                    "name": "White",
+                    "value": 5227.0
+                }
+            ]
+        },
+        {
+            "name": "Rampart",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 120.0
+                },
+                {
+                    "name": "Black",
+                    "value": 917.2
+                },
+                {
+                    "name": "Chinese",
+                    "value": 170.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 1220.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 40.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 3690.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 4945.8
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 10250.0
+                },
+                {
+                    "name": "Pacific",
+                    "value": 160.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 50.0
+                },
+                {
+                    "name": "White",
+                    "value": 1163.6
+                }
+            ]
+        },
+        {
+            "name": "Southeast",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 130.0
+                },
+                {
+                    "name": "Black",
+                    "value": 5044.8
+                },
+                {
+                    "name": "Cambodian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Chinese",
+                    "value": 50.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 90.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 50.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 50.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 40.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 4297.0
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 3120.0
+                },
+                {
+                    "name": "Pacific",
+                    "value": 20.0
+                },
+                {
+                    "name": "Samoan",
+                    "value": 10.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 10.0
+                },
+                {
+                    "name": "White",
+                    "value": 257.6
+                }
+            ]
+        },
+        {
+            "name": "Southwest",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 1110.0
+                },
+                {
+                    "name": "Black",
+                    "value": 6083.6
+                },
+                {
+                    "name": "Chinese",
+                    "value": 250.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 330.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 80.0
+                },
+                {
+                    "name": "Hawaiian",
+                    "value": 410.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 140.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 530.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 4230.2
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 337.4
+                },
+                {
+                    "name": "Pacific",
+                    "value": 50.0
+                },
+                {
+                    "name": "Samoan",
+                    "value": 10.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 10.0
+                },
+                {
+                    "name": "White",
+                    "value": 1138.2
+                }
+            ]
+        },
+        {
+            "name": "Topanga",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 240.0
+                },
+                {
+                    "name": "Asian Indian",
+                    "value": 60.0
+                },
+                {
+                    "name": "Black",
+                    "value": 652.4
+                },
+                {
+                    "name": "Chinese",
+                    "value": 150.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 600.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Hawaiian",
+                    "value": 90.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 70.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 120.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 2520.8
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 236.8
+                },
+                {
+                    "name": "Pacific",
+                    "value": 70.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 100.0
+                },
+                {
+                    "name": "White",
+                    "value": 3831.8
+                }
+            ]
+        },
+        {
+            "name": "Van Nuys",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 60.0
+                },
+                {
+                    "name": "Asian Indian",
+                    "value": 50.0
+                },
+                {
+                    "name": "Black",
+                    "value": 817.0
+                },
+                {
+                    "name": "Chinese",
+                    "value": 20.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 520.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Hawaiian",
+                    "value": 80.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 20.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 120.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 3027.4
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 8210.0
+                },
+                {
+                    "name": "Pacific",
+                    "value": 80.0
+                },
+                {
+                    "name": "Samoan",
+                    "value": 10.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 10.0
+                },
+                {
+                    "name": "White",
+                    "value": 3905.4
+                }
+            ]
+        },
+        {
+            "name": "West LA",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 110.0
+                },
+                {
+                    "name": "Asian Indian",
+                    "value": 30.0
+                },
+                {
+                    "name": "Black",
+                    "value": 555.0
+                },
+                {
+                    "name": "Chinese",
+                    "value": 260.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 210.0
+                },
+                {
+                    "name": "Hawaiian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 240.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 350.0
+                },
+                {
+                    "name": "Laotian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 1004.2
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 371.0
+                },
+                {
+                    "name": "Pacific",
+                    "value": 80.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 40.0
+                },
+                {
+                    "name": "White",
+                    "value": 4622.6
+                }
+            ]
+        },
+        {
+            "name": "West Valley",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 110.0
+                },
+                {
+                    "name": "Black",
+                    "value": 562.6
+                },
+                {
+                    "name": "Chinese",
+                    "value": 110.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 350.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 20.0
+                },
+                {
+                    "name": "Hawaiian",
+                    "value": 80.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 10.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 30.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 2374.8
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 187.8
+                },
+                {
+                    "name": "Pacific",
+                    "value": 70.0
+                },
+                {
+                    "name": "Vietnamese",
+                    "value": 20.0
+                },
+                {
+                    "name": "White",
+                    "value": 3679.2
+                }
+            ]
+        },
+        {
+            "name": "Wilshire",
+            "children": [
+                {
+                    "name": "American Indian",
+                    "value": 170.0
+                },
+                {
+                    "name": "Asian Indian",
+                    "value": 20.0
+                },
+                {
+                    "name": "Black",
+                    "value": 1700.4
+                },
+                {
+                    "name": "Cambodian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Chinese",
+                    "value": 100.0
+                },
+                {
+                    "name": "Filipino",
+                    "value": 300.0
+                },
+                {
+                    "name": "Guamanian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Hawaiian",
+                    "value": 10.0
+                },
+                {
+                    "name": "Japanese",
+                    "value": 70.0
+                },
+                {
+                    "name": "Korean",
+                    "value": 2350.0
+                },
+                {
+                    "name": "Laotian",
+                    "value": 20.0
+                },
+                {
+                    "name": "Mexican",
+                    "value": 1776.0
+                },
+                {
+                    "name": "Other Asian",
+                    "value": 295.8
+                },
+                {
+                    "name": "Pacific",
+                    "value": 90.0
+                },
+                {
+                    "name": "White",
+                    "value": 2927.0
+                }
+            ]
+        }
+    ]
+}
